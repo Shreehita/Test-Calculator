@@ -12,4 +12,4 @@ A simple interactive calculator built with HTML, CSS, and JavaScript.
 6. Click **Save**
 7. Wait ~30 seconds, then refresh — your live URL will appear at the top
 
-Your site will be live at: `https://[your-username].github.io/[repo-name]`
+Your site will be live at: `https://[Shreehita].github.io/[Test-Calculator]`
